@@ -1,5 +1,3 @@
-Aquí tienes todo el contenido que debes copiar y pegar directamente en tu archivo `README.md`:
-
 ---
 
 # Generador de Boletos en PDF
@@ -120,9 +118,4 @@ Para crear un ejecutable que no dependa de Python:
    git push origin mi-nueva-funcionalidad
    ```
 5. Crea un Pull Request en GitHub.
-
-## Licencia
-
-Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
-
 ---
