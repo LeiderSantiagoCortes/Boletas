@@ -1,0 +1,22 @@
+# Ignorar caché de Python
+__pycache__/
+
+# Ignorar carpetas de distribución
+build/
+dist/
+
+# Ignorar entorno virtual
+venv/
+
+# Archivos adicionales opcionales (si deseas)
+*.pyc
+*.pyo
+*.log
+*.tmp
+.DS_Store
+
+# Ignorar archivo de configuración de PyInstaller
+main.spec
+
+# Ignorar el archivo de dependencias (si es necesario)
+requirements.txt
